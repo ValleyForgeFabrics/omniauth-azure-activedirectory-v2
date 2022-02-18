@@ -1,5 +1,10 @@
 # Omniauth::Azure::Activedirectory::V2
 
+## Notice
+- This gem is EXACTLY the same as [RIPAGlobal's](https://github.com/RIPAGlobal/omniauth-azure-activedirectory-v2)
+- For reasons I don't want to get into, I needed the gem to be called `omniauth-azure_activedirectory_v2` instead of `omniauth-azure-activedirectory-v2`.
+- That is all.
+
 [![Gem Version](https://badge.fury.io/rb/omniauth-azure-activedirectory-v2.svg)](https://badge.fury.io/rb/omniauth-azure-activedirectory-v2)
 [![Build Status](https://travis-ci.org/RIPGlobal/omniauth-azure-activedirectory-v2.svg)](https://travis-ci.org/RIPGlobal/omniauth-azure-activedirectory-v2)
 [![License](https://img.shields.io/github/license/RIPGlobal/omniauth-azure-activedirectory-v2.svg)](LICENSE.md)
